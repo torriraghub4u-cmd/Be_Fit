@@ -1,1 +1,0 @@
-window.globalLoadJsAsset('story_content/5sOyCTh7AgI_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.105.35604.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:02.015%0D%0AYou%20hear%20a%20loud%20noise%20and%20get%20shocked.%0D%0A%0D%0A"}]})
